@@ -1,0 +1,7 @@
+<h3>This game's purpose in life is to predict the winning 
+category of MTN Business App of the year award<h3>
+
+so here are the rules
+<p>1. Each number represent a category from one to 0 to 12(dice1 6+ dice2 6). </p>
+<p>2. Blank dice is = 0 which means it has tossed off the stage.</p>
+<p>3. Roll the dice once, The category appear on the screen is the Bozza category.</p>

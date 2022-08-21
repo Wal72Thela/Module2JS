@@ -24,7 +24,6 @@ h1{
 }
 
 p{
-    font-size:  1.5rem;
     color: black;
 }
 
@@ -59,4 +58,16 @@ button{
     100%{
         transform: rotate(8deg);
     }
+}
+
+.nevy{
+    background-color: white;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 15px;
+    width: 150;
+    letter-spacing: 1px;
+    border-radius: 5px;
+
 }
