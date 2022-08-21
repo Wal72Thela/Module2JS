@@ -1,0 +1,18 @@
+<h1>Ambani Africa</h1>
+developed by Mukundi Lambani
+
+
+<p>Ambani Africa was founded in 2018 by South African-born entrepreneur, Mukundi Lambani,
+to offer interactive mother-tongue education for K-12 learners. Starting as a simple idea
+of addressing the under-representation of South African languages, Ambani developed a free
+language app that offers six African language options.</p>
+<p>“Ambani”, which means to speak in Tshivenda, is today a South African EdTech start-up that offers
+multiple solutions for both private and public sector beneficiaries.</p>
+
+<p>"As a company, our early focus on technology-enabled language content has resulted in the advanced and diverse technology-driven solutions on offer."<p>
+
+<h1>Won The Following</h1>
+<p>Best Gaming Solution</p>
+<p>Best Educational Solution</p>
+<p>Best South African Solution</p>
+<p>Overall Winner</p>

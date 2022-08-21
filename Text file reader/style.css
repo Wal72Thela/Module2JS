@@ -1,0 +1,48 @@
+body{
+    background-color:
+    yellow;
+}
+
+
+.wrapper{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin: 20px;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+
+.dice-area{
+    color: blue;
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+p{
+    font-size:  1.5rem;
+    color: black;
+}
+
+img{
+    width: 100px;
+}
+
+.sbutton{
+    background-color: black;
+    border: none;
+    outline: none;
+    color: yellow;
+    padding: 15px;
+    width: 150;
+    letter-spacing: 1px;
+    border-radius: 5px;
+
+    
+}
+
+
