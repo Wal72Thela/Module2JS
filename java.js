@@ -1,6 +1,3 @@
-
-
-
 let images = [
     'assets/dice0.png',
     'assets/dice1.png',
@@ -12,8 +9,6 @@ let images = [
 ]
 
 let dice = document.querySelector('img')
-
-
 function roll(){
   
     setTimeout(function() {
@@ -23,11 +18,7 @@ function roll(){
         document.querySelector("#die-2").setAttribute("src", images[dieTwoValue])
         let Champ = dieOneValue + dieTwoValue
         console.log(Champ)
-
-
         TheBozzaCategories(Champ);
-
-
        
     }, 1000
     );
